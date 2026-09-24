@@ -1,0 +1,7 @@
+{
+  "name": "FoodiesFake - Social Hate Analyzer",
+  "description": "Análisis de toxicidad, hate speech y coherencia para canales foodies y redes sociales con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
